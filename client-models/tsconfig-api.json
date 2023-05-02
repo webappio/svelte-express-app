@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "CommonJS",
+      "moduleResolution": "nodenext",
+      "declaration": true,
+      "outDir": "./build/api",
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "strict": true,
+      "strictNullChecks": true,
+      "skipLibCheck": true
+    },
+    "exclude": ["./build/**/*"]
+}

@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "es6",
+      "moduleResolution": "nodenext",
+      "declaration": true,
+      "outDir": "./build/frontend",
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "strict": true,
+      "strictNullChecks": true,
+      "skipLibCheck": true
+    },
+    "exclude": ["./build/**/*"]
+}
